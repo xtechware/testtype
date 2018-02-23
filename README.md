@@ -19,7 +19,7 @@ It's primary purpose it to demonstrates the ability for one provider to share da
 <a name="release-notes"></a>
 ## Release Notes
 
-Version: N/A  
+Version: 1.0.0  
 Date: 2/23/2018  
 Author: Jerome Gudknecht, XTechWare
 Updates:
